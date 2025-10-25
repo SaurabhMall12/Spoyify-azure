@@ -1,0 +1,9 @@
+{
+	"name": "spotify-adfff",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e62caeac-d01e-49ab-a44e-bcbc183de972",
+		"tenantId": "d4f19b66-c42d-4759-b0ab-3f7aef44d629"
+	}
+}
